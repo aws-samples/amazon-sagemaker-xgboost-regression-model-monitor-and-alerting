@@ -1,0 +1,5 @@
+The California Housing data (california_housing.csv) is sourced from https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html and included in the public domain Spatial Statistics Toolbox for Matlab 1.1 (http://www.spatial-statistics.com/software_index.htm).
+
+This dataset is based on the 1990 U.S. census data in California.
+
+Although this dataset is old, it still provides a great opportunity to learn about Machine Learning programming.  As a result, it has been extensively used in Machine Learning publications.
